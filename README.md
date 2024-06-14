@@ -84,3 +84,5 @@ data['Strategy Return'].cumsum().plot(title='Retorno Acumulado da Estratégia', 
 plt.show()
 Conclusão
 Python se estabeleceu como uma ferramenta essencial para profissionais do mercado financeiro, oferecendo um arsenal de bibliotecas e frameworks que facilitam a análise de dados, a automação de processos e a implementação de estratégias de trading. Com este roadmap, qualquer pessoa interessada pode começar a explorar e dominar o uso de Python no mercado financeiro, abrindo novas oportunidades e aumentando suas capacidades analíticas.
+Imagens Geradas por IA
+![Slide1](https://github.com/rafaelnevespy/DIO-artigo/assets/121574564/6ef03b06-34b8-42d3-bb72-5129c85876de)
