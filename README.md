@@ -1,4 +1,5 @@
 # DIO-artigo
+https://web.dio.me/articles/python-no-mercado-financeiro-a-linguagem-que-esta-mudando-o-jogo-dos-investimentos?back=%2Farticles&open-modal=true&page=1&order=oldest
 Artigo sobre python para mercado financeiro feito por IA
 Python no Mercado Financeiro: A Linguagem Que Está Mudando o Jogo dos Investimentos
 Nos últimos anos, Python se tornou uma das linguagens de programação mais populares no setor financeiro. Sua versatilidade, simplicidade e vasta biblioteca de pacotes fazem dela uma ferramenta poderosa para análise de dados, automação de processos e desenvolvimento de algoritmos de trading. Este artigo explora como Python está transformando o mercado financeiro e fornece um roadmap detalhado para aqueles que desejam começar a utilizar essa linguagem na área de investimentos.
